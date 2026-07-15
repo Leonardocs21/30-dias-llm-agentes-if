@@ -1,0 +1,16 @@
+# Entornos y dependencias
+venv/
+__pycache__/
+*.pyc
+.env
+node_modules/
+
+# Datos sensibles - NUNCA subir esto
+data/real/
+*.rif
+*credenciales*
+*.key
+
+# Sistema
+.DS_Store
+.ipynb_checkpoints/
